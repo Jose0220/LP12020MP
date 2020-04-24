@@ -18,7 +18,7 @@ Na resolução deste projecto deve ser utilizada a Linguagem de Programação C.
 
 ## 1. Introdução
 
-Neste trabalho pretence-se que os alunos trabalhem com alguns algortimos de encriptação muito simples.
+Neste trabalho pretende-se que os alunos trabalhem com alguns algortimos de encriptação muito simples.
 
 Encriptação é o processo de transformar informação usando um algoritmo (chamado cifra) de modo a impossibilitar a sua leitura a todos excepto aqueles que conheçam a forma de desencriptar, geralmente referida como chave. O resultado deste processo é uma informação **encriptada**, também chamada de texto cifrado [(4)](#ref4).
 
