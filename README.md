@@ -115,7 +115,7 @@ Frase Cifrada:
 
 O parâmetro `n` introduzido pelo utilizador terá obrigatoriamente que estar no intervalo [2 ; 50]. Caso o número esteja fora do intervalo o programa deverá imprimir a seguinte mensagem de erro: `Error: out of bound` e deverá voltar a esperar um novo *input* do utilizador. 
 
-### 2.3 Extra - Cifra de Transposição<a name="transp2"></a>
+### 2.3 Extra - Cifra de Transposição II<a name="transp2"></a>
 
 Um outro dipo de  cifra de transposição simples pode ser descrita da seguinte forma:
 
