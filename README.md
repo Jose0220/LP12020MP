@@ -37,7 +37,7 @@ onde
    - `T` : o programa deverá desencriptar o `texto` assumindo que este está encriptado com a cifra transposição. Deverá apresentar o resultado na consola.
    - `e` : o programa deverá aplicar ao `texto` a cifra de transposição II (ver Secção [2.3](#transp2)) e apresentar o resultado na consola. Esta opção é uma opção extra e a avaliação desta funcionalidade será feita separadamente - (ver Secção [2.3](#transp2))
    - `E` : o programa deverá desencriptar o `texto` assumindo que este se encontra encriptado com a cifra de transposição II (ver Secção [2.3](#transp2)) e apresentar o resultado na consola. Esta opção é uma opção extra e a avaliação desta funcionalidade será feita separadamente - (ver Secção [2.3](#transp2))
-   - `q` : o programa deverá terminar, apresentado a mensagem: `Exiting->`
+   - `q` : o programa deverá terminar, apresentando a mensagem: `Exiting->`
    - Caso o utilizador introduza outro caracter (sem ser um dos caracteres esperados) o programa deverá imprimir a seguinte mensagem de erro: `Error: Unkown option` e deverá voltar a esperar um novo *input* do utilizador. O programa deverá ignorar espaços em branco introduzidos antes do caracter `<op>`.
 * `<n>`: No caso da cifra de deslocamento, este parâmetro indica o número de caracteres de deslocamento a aplicar. No caso da cifra de transposição, indica o número de colunas da matriz. 
 * `<texto>`: é uma string, com o máximo de 166 caracteres, que pode conter espaços.
