@@ -55,7 +55,7 @@ Uma cifra de substituição é um algoritmo que permite a encriptação substitu
 `HFIF RFQQTH UWJHNXF IJ ZR KWJJ` - Frase encriptada
 
 Nesta versão simplificada apenas os caracteres `0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ` são encriptados. Desta forma, o texto deverá ser convertido para letras maiúsculas e todos os caracteres que não pertencem ao grupo dos caracteres encriptados deverão manter-se inalterados - como é o caso dos espaços no exemplo anterior.
-Caso o utilizador especifique um número positivo, o deslocamento é ser feito para a direita (como no caso do exemplo). Caso o número seja negativo, o deslocamento é feito para a esquerda.
+Caso o utilizador especifique um número positivo, o deslocamento é feito para a direita (como no caso do exemplo). Caso o número seja negativo, o deslocamento é feito para a esquerda.
 
 O utilizador poderá introduzir o texto utilizando letras maiúsculas ou minúsculas, mas o resultado deverá ser sempre apresentado em maiúsculas.
 
