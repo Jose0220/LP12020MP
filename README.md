@@ -122,7 +122,7 @@ Um outro dipo de  cifra de transposição simples pode ser descrita da seguinte 
 Considere uma string ***S***, constituida por *N* carateres, identificados na forma ***S*** = *S<sub>1</sub>S<sub>2</sub>...S<sub>N</sub>*
 
 1. Se o comprimento de ***S*** é 1 ou 2 então a função **encript**(***S***) = ***S***, isto é, a própria string.
-2. Se ***S*** for uma string de comprimento *N* > 2 então **encript**(***S***) = **encript**(S<sub>k</sub>...S<sub>2</sub>S<sub>1</sub>) + **encript**(*S<sub>N</sub>S<sub>N-1</sub>...S<sub>k+1</sub>*) **+**  em que:
+2. Se ***S*** for uma string de comprimento *N* > 2 então **encript**(***S***) = **encript**(S<sub>k</sub>...S<sub>2</sub>S<sub>1</sub>) + **encript**(*S<sub>N</sub>S<sub>N-1</sub>...S<sub>k+1</sub>*),  em que:
     - *k* = *N*/2, divisão inteira
     - símbolo **+** significa concatenação de strings, e.g. `AB+CB=ABCD`
 
