@@ -150,7 +150,7 @@ Será também conveniente a implementação de uma função que inverta uma stri
 char * reverse(char * s, const unsigned int n);
 ```
 
-A implementação desta funcionalidade é opcional e será avaliada, mais tarde, num *constest* separado no PANDORA [(2)](#ref2). Os alunos que optarem por fazer esta implementação poderão substituir a nota de um dos exercícios práticos pela nota obtida nesta implementação.
+A implementação desta funcionalidade é opcional e será avaliada, num *constest* separado no PANDORA [(2)](#ref2). Os alunos que optarem por fazer esta implementação poderão substituir a nota de um dos exercícios práticos pela nota obtida nesta implementação.
 
 Os alunos não terão melhor nota no Mini Projecto pela implementação desta funcionalidade. Apenas poderão substituir a nota obtida num dos exercícios práticos.
 
