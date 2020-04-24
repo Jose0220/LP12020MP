@@ -26,7 +26,7 @@ As mensagens a serem encriptadas terão o **máximo** de 166 caracteres, o núme
 
 ## Funcionamento do programa
 
-Pretende desenvolver-se um programa para que aplica dois tipos de cifras a um texto lido do teclado. O programa deverá ler do stdin um input com o seguinte formato:
+Pretende desenvolver-se um programa que aplique alguns tipos de cifras a um texto lido do teclado. O programa deverá ler do stdin um input com o seguinte formato:
 `<op> <n> <texto>`
 onde
 
