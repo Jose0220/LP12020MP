@@ -4,7 +4,7 @@
 
 # MiniProjecto - CifreX
 
-Na resolução desta ficha deve ser utilizada a Linguagem de Programação C. Para além da correta implementação dos requisitos, tenha em conta os seguintes aspetos:
+Na resolução deste projecto deve ser utilizada a Linguagem de Programação C. Para além da correta implementação dos requisitos, tenha em conta os seguintes aspetos:
 
 - O código apresentado deve ser bem indentado. 
 - O código deve compilar sem erros ou *warnings* utilizando o *gcc* com as seguintes flags:
